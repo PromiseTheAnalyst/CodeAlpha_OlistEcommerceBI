@@ -224,7 +224,7 @@ Planned dashboard features include:
 |-------|----------|
 | Excel | Data Exploration | Validating Relationships
 | SQL Server | Business Analysis| Data Exploration 
-| Power BI | Data Development| Data Cleaning| Data Modelling| DAX Development|Dashboard Tranformation | KPI Calculations 
+| Power BI | Dashboard Development| Data Cleaning| Data Modelling| DAX Development|Dashboard Tranformation | KPI Calculations 
 | GitHub | Project Documentation 
 
 ---

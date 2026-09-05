@@ -7,7 +7,7 @@
 > **Turning e-commerce data into actionable business intelligence through SQL, Power BI, Excel, and data storytelling. **
 
 ![Status](https://img.shields.io/badge/Project-In%20Progress-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-success)
+![SQL](https://img.shields.io/badge/SQL-Beginner-)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Business Intelligence](https://img.shields.io/badge/Focus-Business%20Intelligence-purple)
 

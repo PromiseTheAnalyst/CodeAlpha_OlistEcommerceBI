@@ -19,10 +19,6 @@ This project analyzes the performance of the Olist Brazilian e-commerce marketpl
 
 The analysis connects sales performance, customer behavior, delivery performance, and seller performance to understand what was happening across the marketplace and identify areas requiring further attention.
 
-The project follows a simple BI approach:
-
-Business Question → Data → Analysis → Finding → Business Implication → Recommendation
-
 ## 1. Project Overview
 
 This project analyzes the performance of the Olist Brazilian e-commerce marketplace using data from 2016–2018.

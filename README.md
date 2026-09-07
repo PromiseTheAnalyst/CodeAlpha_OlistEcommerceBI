@@ -71,6 +71,21 @@ The analysis focused on understanding:
 * Where are potential seller and regional performance opportunities?
 
 ---
+## 📊 Power BI Dashboard
+
+### Sales Overview
+
+![Sales Overview Dashboard](Dashboard%20/Sales_Overview.png)
+
+### Customer Behavior
+
+![Customer Behavior Dashboard](Dashboard%20/Customer_Behavior.png)
+
+### Delivery & Seller Performance
+
+![Delivery and Seller Performance Dashboard](Dashboard%20/Delivery_Seller_Performance.png)
+
+---
 
 ## 4. Data & Data Model
 
@@ -357,26 +372,6 @@ Planned dashboard features include:
 - Business Storytelling
 - Analytical Thinking
 - Problem Solving
-
----
-
-# Current Progress
-
-✅ Business Understanding
-
-✅ Data Preparation
-
-✅ SQL Business Queries
-
-✅ Data Modeling
-
-✅ DAX Measures
-
-✅ Dashboard Documentation
-
-✅ Business Recommendations
-
-✅ Finished Project
 
 ---
 

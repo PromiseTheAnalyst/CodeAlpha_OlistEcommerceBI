@@ -336,17 +336,6 @@ Revenue, customer behavior, and operational performance provide different views 
 This project demonstrates my approach as a junior BI analyst:
 Start with the business question, use data to investigate it, validate the result, communicate what the data shows, and identify practical areas for action.
 
-Planned dashboard features include:
-
-- Executive KPI Cards
-- Sales Trend Analysis
-- Customer Insights
--Sellers and Product Performance
-- Delivery Performance
-- Interactive Filters
-
----
-
 ---
 
 # Technology Stack

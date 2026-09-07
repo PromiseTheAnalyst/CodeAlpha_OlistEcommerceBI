@@ -376,7 +376,8 @@ Planned dashboard features include:
 
 ✅ Business Recommendations
 
-✅ Project Finished
+✅ Finished Project
+
 ---
 
 # About Me

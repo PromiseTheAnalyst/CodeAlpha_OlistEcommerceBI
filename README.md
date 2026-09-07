@@ -332,26 +332,6 @@ Planned dashboard features include:
 
 ---
 
-# Project Structure
-
-```
-📂 Olist-Business-Intelligence-Project
-│
-├── 📁 Data
-├── 📁 SQL
-│   ├── Business Questions.sql
-│   └── Analytical Queries.sql
-│
-├── 📁 Power BI
-│   └── Dashboard.pbix
-│
-├── 📁 Dashboard Images
-│
-├── 📁 Documentation
-│
-└── README.md
-```
-
 ---
 
 # Technology Stack
@@ -396,6 +376,7 @@ Planned dashboard features include:
 
 ✅ Business Recommendations
 
+✅ Project Finished
 ---
 
 # About Me

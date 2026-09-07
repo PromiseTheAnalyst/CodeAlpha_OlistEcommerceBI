@@ -75,15 +75,16 @@ The analysis focused on understanding:
 
 ### Sales Overview
 
-![Sales Overview](Dashboard/Olistmarketplace%20Salesr%20overview%20.png)
+![Sales Overview](Dashboard/Olistmarketplace%20Sales%20overview.png)
 
 ### Customer Retention & Behavior
 
 ![Customer Retention & Behavior](Dashboard/Olistmarketplace%20Customer%20retension%20behaivor.png)
 
-### Delivery/Sellers Performance
+### Delivery & Seller Performance
 
-![Delivery/Sellers Performance](Dashboard/Olistmarketplace%Delivery%20performance.png)
+![Delivery & Seller Performance](Dashboard/Olistmarketplace%20Delivery%20performance.png)
+
 ---
 
 ## 4. Data & Data Model

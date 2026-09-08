@@ -13,11 +13,11 @@ Turning e-commerce data into actionable business intelligence through SQL, Power
 
 ---
 
-# Project Type: Portfolio Project
+### Project Type: Portfolio Project
 
-# Role: Junior Data Analyst
+### Role: Junior Data Analyst
 
-# Dataset: Olist Brazillian E-Commerce Dataset - Kaggle
+### Dataset: Olist Brazillian E-Commerce Dataset - Kaggle
 
 ---
 
